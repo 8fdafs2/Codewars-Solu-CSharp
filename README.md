@@ -1,2 +1,2 @@
-# Codewars-Sol-CSharp
+# Codewars-Solu-CSharp
 C# Solutions on Codewars
